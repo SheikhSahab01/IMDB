@@ -1,0 +1,35 @@
+.header{
+    margin:0 2.5rem ;
+    padding:0.5rem 0;
+    align-items:center;
+    display:flex;
+    justify-content:space-between;
+}
+
+.headerleft, .headerright{
+    display:flex;
+    align-items:center;
+}
+a{
+    text-decoration: none;
+}
+
+a>span{
+    margin: 0 20px;
+    font-size:1.2rem;
+    color:#fff;
+    cursor:pointer;
+}
+
+a>span:hover{
+    color:red;
+}
+
+.header__icon{
+    width:20px;
+    cursor: pointer;
+}
+
+.user_avtar{
+    font-size: 2rem;
+}
