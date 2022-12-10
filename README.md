@@ -1,3 +1,16 @@
+<h1 align="center">Movie Database</h1>
+<p> A Database where you find details about movies. Just Similar to IMDB</p>
+</hr>
+
+
+
+![image](https://ik.imagekit.io/uazn82tha/G1_i-KZk4PdQ.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1650654413351&tr=w-1104%2Ch-736%2Cfo-auto)
+<br><br><br><br><br><br><br><br><br>
+![click on Allow](https://ik.imagekit.io/uazn82tha/G3_Olk156aCi.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1650654413497) 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
