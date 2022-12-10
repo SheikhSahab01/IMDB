@@ -4,16 +4,27 @@
 
 <h3> Home Page </h3>
 <p> Here you can find the All the movies listed in the Database and You can also fine by Popular amd Upcomming movies as well</p>
-<img src="https://ik.imagekit.io/uazn82tha/movie/3_iKuPq2awe.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670680318136" >
-<!-- ![image](https://ik.imagekit.io/uazn82tha/movie/3_iKuPq2awe.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670680318136) -->
-<br><br>
+<img src="https://ik.imagekit.io/uazn82tha/movie/1_bYz6WMI9v.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670680318030" >
+<br>
 <hr>
-<br><br>
-
-![click on Allow](https://ik.imagekit.io/uazn82tha/G3_Olk156aCi.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1650654413497) 
+<br>
 
 
+<h3> Popular Page </h3>
+<p> Here every can find the popular movies of all the time</p>
+<img src="https://ik.imagekit.io/uazn82tha/movie/2_lxw4t514Q.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670680318101" >
+<p> Note: Top_Rated and Upcomming Pages are similar and data are according to theri titles</p>
+<br>
+<hr>
+<br>
 
+
+<h3> Home Page </h3>
+<p> Here you can find the All the movies listed in the Database and You can also fine by Popular amd Upcomming movies as well</p>
+<img src="https://ik.imagekit.io/uazn82tha/movie/3_iKuPq2awe.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670680318136" >
+<br>
+<hr>
+<br>
 
 # Getting Started with Create React App
 
