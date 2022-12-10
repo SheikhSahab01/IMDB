@@ -4,6 +4,7 @@ import Header from './Components/header/Header';
 import Home from './Pages/homepage/Home';
 import Movie from './Pages/moviedetails/Moviesdetails';
 import MovieList from './Components/movieList/movieList';
+import Demo from './Components/cardsection/Demo'
 import Error from './Pages/error/Err';
 
 function App() {

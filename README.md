@@ -1,36 +1,3 @@
-<h1 align="center">Movie Database</h1>
-<p> A Database where you can find details about various movies from differnt genres. It is similar to the IMDB application.</p>
-</hr>
-
-<h3> Home Page </h3>
-<p> Here you can find all movies listed in the Database and you can also find movies from two sections named Popular and Upcomming movies.</p>
-<img src="https://ik.imagekit.io/uazn82tha/movie/1_bYz6WMI9v.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670680318030" >
-<br>
-<hr>
-
-<h3> Popular Page </h3>
-<p> Here anyone can find various popular movies of all times.</p>
-<img src="https://ik.imagekit.io/uazn82tha/movie/2_lxw4t514Q.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670680318101" >
-<p> Note: Top_Rated and Upcomming Pages are similar and data is fetched according to their titles.</p>
-<br>
-<hr>
-
-<h3>Movie Details Page </h3>
-<p> This page contains details about the particular movie the user has clicked on. The details include: </p>
-<ul>
-  <li>IMDB rating </li>
-  <li>Votes</li>
-  <li>Release Date</li>
-  <li>Movie run time</li>
-  <li>Genre</li>
-  <li>Brief Summary</li>
-  <li>Production details</li>
-</ul>
-<img src="https://ik.imagekit.io/uazn82tha/movie/3_iKuPq2awe.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670680318136" >
-<br>
-<hr>
-<br>
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
