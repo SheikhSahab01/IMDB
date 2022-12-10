@@ -2,10 +2,13 @@
 <p> A Database where you find details about movies. Just Similar to IMDB</p>
 </hr>
 
+<h3> Home Page </h3>
+<p> Here you can find the All the movies listed in the Database and You can also fine by Popular amd Upcomming movies as well</p>
+![image](https://ik.imagekit.io/uazn82tha/movie/3_iKuPq2awe.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670680318136)
+<br><br>
+<hr>
+<br><br>
 
-
-![image](https://ik.imagekit.io/uazn82tha/G1_i-KZk4PdQ.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1650654413351&tr=w-1104%2Ch-736%2Cfo-auto)
-<br><br><br><br><br><br><br><br><br>
 ![click on Allow](https://ik.imagekit.io/uazn82tha/G3_Olk156aCi.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1650654413497) 
 
 
