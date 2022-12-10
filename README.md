@@ -4,7 +4,8 @@
 
 <h3> Home Page </h3>
 <p> Here you can find the All the movies listed in the Database and You can also fine by Popular amd Upcomming movies as well</p>
-![image](https://ik.imagekit.io/uazn82tha/movie/3_iKuPq2awe.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670680318136)
+<img src="https://ik.imagekit.io/uazn82tha/movie/3_iKuPq2awe.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670680318136" >
+<!-- ![image](https://ik.imagekit.io/uazn82tha/movie/3_iKuPq2awe.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670680318136) -->
 <br><br>
 <hr>
 <br><br>
